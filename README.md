@@ -9,3 +9,5 @@ ${{\color{lightpink}\Large{\textsf{"my greatest invention!!!"\ \}}}}\$
 
 
 <img align="left" width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/eca15b54-c87b-4c07-a476-55231397570d" />
+
+${{\color{pink}\{\textsf{hellooo! I'm coil/korryuu!! Bmf if u would like 2 thx ♥︎"\ \}}}}\$ 
